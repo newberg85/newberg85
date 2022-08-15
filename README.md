@@ -5,7 +5,7 @@ I am a computer technician from "EEEP Salaberga Torquato Gomes de Matos",I am pa
 
 ### Technologies
 - Web Development with HTML, CSS, Javascript and PHP.
-
+- learning UIDesign
 <!--
 **newberg85/newberg85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
