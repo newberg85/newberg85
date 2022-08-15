@@ -1,4 +1,4 @@
-### Hi there 👋
+### ABOUT ME (Sobre mim)
 
 <!--
 **newberg85/newberg85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
