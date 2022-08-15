@@ -1,5 +1,5 @@
 ### About me
-#Hi there! I’m Wandemberg de Meneses Viana, 17 years old, currently living in Brazil.
+Hi there! I’m Wandemberg de Meneses Viana, 17 years old, currently living in Brazil.
 <!--
 **newberg85/newberg85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
