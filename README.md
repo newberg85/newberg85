@@ -1,11 +1,11 @@
 ### About me
-Hi there! I’m Wandemberg de Meneses Viana, 17 years old, currently living in Brazil.
+Hi there! I’m Wandemberg de Meneses Viana, 18 years old, currently living in Brazil.
 
-I am a computer technician from "EEEP Salaberga Torquato Gomes de Matos",I am passionate about technology, music and photography. Since 2020 I've been building my career in the world of programming and design.
+I am a developer,I am passionate about technology, music and photography. Since 2020 I've been building my career in the world of programming and design.
 
 ### Technologies
 - Web Development with HTML, CSS, Javascript and PHP.
-- learning UIDesign
+- UIDesign
 <!--
 **newberg85/newberg85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
