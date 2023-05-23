@@ -9,6 +9,7 @@ I am a developer,I am passionate about technology, music and photography. Since 
 ### studying
 - ReactJs
 - NextJs
+- NodeJs
 <!--
 **newberg85/newberg85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
