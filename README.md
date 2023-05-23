@@ -6,6 +6,9 @@ I am a developer,I am passionate about technology, music and photography. Since 
 ### Technologies
 - Web Development with HTML, CSS, Javascript and PHP.
 - UIDesign
+### studying
+- ReactJs
+- NextJs
 <!--
 **newberg85/newberg85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
