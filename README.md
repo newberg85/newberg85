@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I’m Wandemberg de Meneses Viana</h1>
+<h1 align="center">Hi there! I’m Wandemberg</h1>
 <h3 align="center">Desenvolvedor e designer</h3>
 <hr>
 
