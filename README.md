@@ -1,7 +1,4 @@
 <h1 align="center">Hi there! I’m Wandemberg</h1>
-<h3 align="center">Desenvolvedor e designer</h3>
-<hr>
-
 
 ### About me
 Hi there! I’m Wandemberg de Meneses Viana, 18 years old, currently living in Brazil.
