@@ -18,6 +18,8 @@ I am a developer,I am passionate about technology, music and photography. Since 
 <a href="https://www.behance.net/bergviana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="bergviana" height="30" width="40" /></a>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newBerg85" alt="Top Langs">
+
 <!--
 **newberg85/newberg85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
