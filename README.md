@@ -6,12 +6,13 @@ Hi there! I’m Wandemberg de Meneses Viana, 18 years old, currently living in B
 I am a developer,I am passionate about technology, music and photography. Since 2020 I've been building my career in the world of programming and design.
 
 ### Technologies
-- Web Development with HTML, CSS, Javascript and PHP.
-- UIDesign
-### studying
+- NodeJS
 - ReactJs
 - NextJs
-- NodeJs
+- Tailwind
+- Typescript
+- UIDesign
+
 
 <p align="left">
 <a href="https://instagram.com/new.berg85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="new.berg85" height="30" width="40" /></a>
