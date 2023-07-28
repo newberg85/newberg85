@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I’m Wandemberg</h1>
 
-### About me
+[ ![Github](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/newberg85) [ ![Linkedin](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wandemberg-de-meneses-viana-526019261/) [ ![Behance](https://img.shields.io/badge/Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/bergviana) [ ![Codepen](https://img.shields.io/badge/Codepen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/newberg85)
 Hi there! I’m Wandemberg de Meneses Viana, 18 years old, currently living in Brazil.
 
 I am a developer,I am passionate about technology, music and photography. Since 2020 I've been building my career in the world of programming and design.
@@ -12,6 +12,7 @@ I am a developer,I am passionate about technology, music and photography. Since 
 - Tailwind
 - Typescript
 - UIDesign
+  
 
 
 <p align="left">
