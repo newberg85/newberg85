@@ -5,7 +5,7 @@ Hi there! I’m Wandemberg de Meneses Viana, 18 years old, currently living in B
 
 I am a developer,I am passionate about technology, music and photography. Since 2020 I've been building my career in the world of programming and design.
 
-### Technologies
+## 👨‍💻 Professional Skills
 - NodeJS
 - ReactJs
 - NextJs
