@@ -19,14 +19,14 @@ I am a developer,I am passionate about technology, music and photography. Since 
 
 
 ## 📈 stats
-<p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api?username=newberg85&show_icons=true&theme=dark" alt="Devesh-19" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newberg85&layout=compact&theme=dark" alt="Devesh-19" /></p> 
+<p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api?username=newberg85&show_icons=true&theme=dracula" alt="Devesh-19" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newberg85&layout=compact&theme=dracula" alt="Devesh-19" /></p> 
 
 ## 📚 Recent projects
 
-[![Advice-generator-app](https://github-readme-stats.vercel.app/api/pin/?username=newberg85&repo=advice-generator-app&theme=dark)](https://github.com/newberg85/advice-generator-app)
-[![Manage-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=newberg85&repo=manage-landing-page&theme=dark)](https://github.com/newberg85/manage-landing-page)
-[![Google-translate](https://github-readme-stats.vercel.app/api/pin/?username=newberg85&repo=Google-translate&theme=dark)](https://github.com/newberg85/Google-translate)
+[![Advice-generator-app](https://github-readme-stats.vercel.app/api/pin/?username=newberg85&repo=advice-generator-app&theme=dracula)](https://github.com/newberg85/advice-generator-app)
+[![Manage-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=newberg85&repo=manage-landing-page&theme=dracula)](https://github.com/newberg85/manage-landing-page)
+[![Google-translate](https://github-readme-stats.vercel.app/api/pin/?username=newberg85&repo=Google-translate&theme=dracula)](https://github.com/newberg85/Google-translate)
 
 <!--
 **newberg85/newberg85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
