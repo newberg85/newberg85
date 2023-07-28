@@ -19,7 +19,11 @@ I am a developer,I am passionate about technology, music and photography. Since 
 <a href="https://www.behance.net/bergviana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="bergviana" height="30" width="40" /></a>
 </p>
 
-## 📚 More Projects
+## 📚 Recent projects
+
+[![Advice-generator-app](https://github-readme-stats.vercel.app/api/pin/?username=newberg85&repo=advice-generator-app&theme=dark)](https://github.com/newberg85/advice-generator-app)
+[![Manage-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=newberg85&repo=manage-landing-page&theme=dark)](https://github.com/newberg85/manage-landing-page)
+[![Google-translate](https://github-readme-stats.vercel.app/api/pin/?username=newberg85&repo=Google-translate&theme=dark)](https://github.com/newberg85/Google-translate)
 
 <!--
 **newberg85/newberg85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
