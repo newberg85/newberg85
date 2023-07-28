@@ -18,7 +18,7 @@ I am a developer,I am passionate about technology, music and photography. Since 
 <p align="left" <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="git" width="40" height="40"/></a> <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="git" width="40" height="40"/></a></p>
 
 
-## stats
+## 📈 stats
 <p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api?username=newberg85&show_icons=true&theme=dark" alt="Devesh-19" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newberg85&layout=compact&theme=dark" alt="Devesh-19" /></p> 
 
