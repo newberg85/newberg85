@@ -15,12 +15,6 @@ I am a developer,I am passionate about technology, music and photography. Since 
 - UIDesign
   
 
-
-<p align="left">
-<a href="https://instagram.com/new.berg85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="new.berg85" height="30" width="40" /></a>
-<a href="https://www.behance.net/bergviana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="bergviana" height="30" width="40" /></a>
-</p>
-
 ## 📚 Recent projects
 
 [![Advice-generator-app](https://github-readme-stats.vercel.app/api/pin/?username=newberg85&repo=advice-generator-app&theme=dark)](https://github.com/newberg85/advice-generator-app)
