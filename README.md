@@ -23,7 +23,7 @@ I am a developer,I am passionate about technology, music and photography. Since 
 
 ## 📈 stats
 <p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api?username=newberg85&show_icons=true&theme=dracula" alt="Devesh-19" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newberg85&layout=compact&theme=dark" alt="Devesh-19" /></p> 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newberg85&layout=compact&theme=dracula" alt="Devesh-19" /></p> 
 
 ## 📚 Recent projects
 
