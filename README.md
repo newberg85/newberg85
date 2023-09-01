@@ -25,15 +25,15 @@ I am a developer,I am passionate about technology, music and photography. Since 
 <div align="left">
   
 <img height="180em"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=newberg85&show_icons=true&theme=dracula" alt="Devesh-19" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newberg85&layout=compact&theme=dracula" alt="Devesh-20" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=newberg85&layout=compact&theme=dracula" alt="Devesh-20" />
 
 </div>
 
 ## 📚 Recent projects
 
-[![Advice-generator-app](https://github-readme-stats.vercel.app/api/pin/?username=newberg85&repo=advice-generator-app&theme=dracula)](https://github.com/newberg85/advice-generator-app)
-[![Manage-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=newberg85&repo=manage-landing-page&theme=dracula)](https://github.com/newberg85/manage-landing-page)
-[![Google-translate](https://github-readme-stats.vercel.app/api/pin/?username=newberg85&repo=Google-translate&theme=dracula)](https://github.com/newberg85/Google-translate)
+[![Advice-generator-app](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=newberg85&repo=advice-generator-app&theme=dracula)](https://github.com/newberg85/advice-generator-app)
+[![Manage-landing-page](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=newberg85&repo=manage-landing-page&theme=dracula)](https://github.com/newberg85/manage-landing-page)
+[![Google-translate](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=newberg85&repo=Google-translate&theme=dracula)](https://github.com/newberg85/Google-translate)
 
 <!--
 **newberg85/newberg85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
